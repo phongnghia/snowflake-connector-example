@@ -1,0 +1,7 @@
+dotenv
+numpy
+notebook
+pandas
+pyarrow
+snowflake-snowpark-python
+snowflake-snowpark-python[pandas]
